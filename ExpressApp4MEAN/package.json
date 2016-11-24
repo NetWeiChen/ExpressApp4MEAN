@@ -1,0 +1,18 @@
+{
+  "name": "express-app4-mean",
+  "version": "0.0.0",
+  "description": "ExpressApp4MEAN",
+  "main": "app.js",
+  "author": {
+    "name": "859826208"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*",
+    "moment-timezone": "0.5.4",
+    "body-parser": "~1.2.0",
+    "mongoose": "~3.8.9",
+    "json-query": "2.1.0"
+  }
+}
